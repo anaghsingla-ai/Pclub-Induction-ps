@@ -32,10 +32,12 @@ Follow these steps to run the project locally:
 
 git clone <your-repo-link>
 
-## 📸 Screenshots
+## 📷 Screenshots
 
-<p align="center">
-  <img src="assets/screenshot1.png" width="30%" />
-  <img src="assets/screenshot2.png" width="30%" />
-  <img src="assets/screenshot3.png" width="30%" />
-</p>
+(./img1.jpg)
+
+(./img2.jpg)
+
+(./img3.jpg)
+
+---
