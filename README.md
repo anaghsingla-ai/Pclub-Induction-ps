@@ -31,13 +31,10 @@ Follow these steps to run the project locally:
 ```bash
 
 git clone <your-repo-link>
+## 📸 Screenshots
 
-## 📷 Screenshots
-
-(./img1.jpg)
-
-(./img2.jpg)
-
-(./img3.jpg)
-
----
+<p align="center">
+  <img src="./img1.png" width="30%" />
+  <img src="./img2.png" width="30%" />
+  <img src="./img3.png" width="30%" />
+</p>
