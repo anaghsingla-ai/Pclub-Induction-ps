@@ -29,11 +29,13 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
 ```bash
+
+git clone <your-repo-link>
+
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshot 2026-03-18 190535.png" width="30%" />
+  <img src="assets/screenshot1.png" width="30%" />
   <img src="assets/screenshot2.png" width="30%" />
   <img src="assets/screenshot3.png" width="30%" />
 </p>
-git clone <your-repo-link>
