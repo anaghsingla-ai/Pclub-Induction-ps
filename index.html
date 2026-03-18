@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Study Room Booking</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<span>Study Room Booking System</span>
+<button onclick="toggleTheme()">🌙 Theme</button>
+</header>
+
+<div class="container">
+
+
+<div class="sidebar">
+
+<label>
+Date
+<input type="date" id="date">
+</label>
+
+<label>
+Capacity
+<select id="filter">
+<option value="all">All</option>
+<option value="4">4+</option>
+<option value="6">6+</option>
+<option value="8">8+</option>
+</select>
+</label>
+
+</div>
+
+
+<div class="main">
+
+<div id="rooms" class="rooms"></div>
+
+<div class="summary-box">
+<h3>Your Bookings</h3>
+
+<p style="font-size:13px; opacity:0.7;">
+(Shows: Name → Room Slot Date)
+</p>
+
+<ul id="summary"></ul>
+</div>
+
+</div>
+
+</div>
+
+<footer class="footer">
+
+<p>📚 "Small progress each day adds up to big results."</p>
+
+<button onclick="openGallery()">View Study Room Gallery</button>
+
+</footer>
+<div id="toast"></div>
+<script>
+function openGallery(){
+window.open("gallery.html","_blank");
+}
+</script>
+
+<script src="script.js"></script>
+
+</body>
+</html>
