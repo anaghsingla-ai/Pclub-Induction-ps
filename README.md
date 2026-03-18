@@ -22,7 +22,13 @@ A modern and responsive **Study Room Booking Interface** built using **HTML, CSS
 - **Vanilla JavaScript (DOM Manipulation)**
 
 ---
+## 📸 Screenshots
 
+<p align="center">
+  <img src="./img1.png" width="30%" />
+  <img src="./img2.png" width="30%" />
+  <img src="./img3.png" width="30%" />
+</p>
 ## ⚙️ Setup Instructions
 
 Follow these steps to run the project locally:
@@ -31,10 +37,4 @@ Follow these steps to run the project locally:
 ```bash
 
 git clone <your-repo-link>
-## 📸 Screenshots
 
-<p align="center">
-  <img src="./img1.png" width="30%" />
-  <img src="./img2.png" width="30%" />
-  <img src="./img3.png" width="30%" />
-</p>
