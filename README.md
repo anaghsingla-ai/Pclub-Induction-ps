@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="30%" />
+  <img src="Screenshot 2026-03-18 190535.png" width="30%" />
   <img src="assets/screenshot2.png" width="30%" />
   <img src="assets/screenshot3.png" width="30%" />
 </p>
